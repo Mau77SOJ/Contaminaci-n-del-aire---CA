@@ -1,1 +1,5 @@
-# Contaminaci-n-del-aire---CA
+## Contaminación-del-aire-CA
+#Un año respirando datos: la historia detrás del PM10
+Durante 2023, los sensores de calidad del aire registraron día tras día la presencia de PM10, una partícula diminuta pero con gran impacto en la salud. El promedio anual fue de 23.02 µg/m³, con variaciones que reflejan tanto días limpios como episodios críticos.
+Uno de esos episodios destaca por su magnitud: un pico de 495 µg/m³, registrado en una fecha puntual. Aunque no se cuenta con una causa confirmada, una hipótesis plausible es que este valor extremo esté vinculado al transporte de humo desde incendios forestales en California, que durante ese año afectaron más de 336.000 acres y liberaron grandes cantidades de material particulado. Las corrientes atmosféricas pueden haber arrastrado esas partículas a largas distancias, impactando la calidad del aire local.
+El mapa del dashboard refuerza esta narrativa, mostrando zonas urbanas con mayores concentraciones y permitiendo identificar focos críticos. Con un AQI promedio de 20.8, la calidad del aire fue generalmente buena, pero estos eventos extremos nos recuerdan que la vigilancia continua es clave para anticipar riesgos y proteger la salud pública.
